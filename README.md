@@ -2,15 +2,6 @@
   <h1>Hola, soy Renzo Navarro 👋</h1>
   <p>Desarrollador enfocado en soluciones web Full-Stack, arquitecturas escalables y proyectos IoT.</p>
 
-  <!-- Insignia UPC + Redes de contacto -->
-  <p>
-    <a href="https://www.linkedin.com/in/renzo-navarro/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:fran.navaj23@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
 </div>
 
 <br />
@@ -39,7 +30,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Bases de Datos & Herramientas**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -57,3 +47,9 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renzo-J-Navarro&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
+### Conéctate conmigo
+
+[<img src="https://img.shields.io/badge/LINKEDIN-RENZO%20NAVARRO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=181717" alt="LinkedIn">](https://www.linkedin.com/in/renzo-navarro/)
+[<img src="https://img.shields.io/badge/EMAIL-FRAN.NAVAJ23@GMAIL.COM-D44638?style=for-the-badge&logo=gmail&logoColor=white&labelColor=181717" alt="Email">](mailto:fran.navaj23@gmail.com)
+[<img src="https://img.shields.io/badge/GITHUB-RENZO--NAVARRO-24292e?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub">](https://github.com/Renzo-J-Navarro)
